@@ -34,6 +34,10 @@
 		{path : '/anony', component : 컴포넌트 경로(Anony)}
 	]
 
+▶ 폴더 구성
+	components : 재사용 가능한 작은 컴포넌트들을 포함
+	pages : 라우트에 매핑되는 페이지들을 포함
+	
 
 
 
